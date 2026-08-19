@@ -1,0 +1,3 @@
+# Este snapshot público usa apenas a biblioteca padrão do Python.
+# O projeto privado completo possui dependências adicionais para Discord,
+# persistência, imagens e integrações externas.
